@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+My project does AND on inputs 1 and 1.
 
 ## How to test
 
-Explain how to use your project
+If output is one only when inputs 1 and 2 are both one, we're good.
 
 ## External hardware
 
